@@ -23,11 +23,8 @@
 <br>
 <h3 align="center">🌱 GitHub Status 🌱</h3><br>
 <div align="center">
-  <a href = 'https://goldenrod-scallop-ad5.notion.site/study-center-ef92c048eb2c4dcb9409713c1c75ba7d?pvs=4' target = "_blank">
-    <img src="https://img.shields.io/badge/study center ⋆˚✿˖°-F7DF1E?style=for-the-badge&logo=notion&logoColor=black">
-  </a>   
+  [![jyooni99's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyooni99)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
-[![jyooni99's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyooni99)](https://github.com/anuraghazra/github-readme-stats)
 
 
