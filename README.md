@@ -1,6 +1,6 @@
-<h2 align=center><b>Hello there 👋</b></h2>
+<h3 align=center><b>Hello there 👋</b></h2>
 
-<h3 align="center">📚 STACKS 📚</h3><br>
+<h2 align="center">📚 STACKS 📚</h3><br>
 
 <div align="center">
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
@@ -13,7 +13,7 @@
 </div>
 
 <br>
-<h3 align="center">🖥️ BLOG 🖥️</h3><br>
+<h2 align="center">🖥️ BLOG 🖥️</h3><br>
 <div align="center">
   <a href = 'https://goldenrod-scallop-ad5.notion.site/study-center-ef92c048eb2c4dcb9409713c1c75ba7d?pvs=4' target = "_blank">
     <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
