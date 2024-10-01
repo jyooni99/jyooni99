@@ -22,7 +22,9 @@
 
 <br>
 <h3 align="center">🌱 GitHub Status 🌱</h3><br>
-![jiyooni99's github stats](https://github-readme-stats.vercel.app/api?username=jiyooni99)
+<div align="center">
+  ![jyooni99's github stats](https://github-readme-stats.vercel.app/api?username=jyooni99)  
+</div>
 
 
 
