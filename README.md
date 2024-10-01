@@ -1,9 +1,8 @@
-<br><br>
+<h2 align=center>Hello there 👋</h2>
 
 <h3 align="center"><b>📚 STACKS 📚</b></h3>
-</br>
 
-<div align=center>
+<div align="center">
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -14,9 +13,8 @@
 </div>
 
 <br>
-<h3 align="center"><b>💌 SOCIAL 💌</b></h3>
-</br>
-<div align=center>
+<h3 align="center"><b>🖥️ BLOG 🖥️</b></h3>
+<div align="center">
   <a href = 'https://goldenrod-scallop-ad5.notion.site/study-center-ef92c048eb2c4dcb9409713c1c75ba7d?pvs=4' target = "_blank">
     <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   </a>   
