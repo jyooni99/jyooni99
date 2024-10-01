@@ -20,9 +20,13 @@
   </a>   
 </div>
 
-<h3 align="center">🌱 GITHUB STATUS 🌱</h3><br>
+<h3 align="center">🐰 GIT ANIMALS 🐰</h3><br>
 <div align="center">
+  <a href="https://github.com/devxb/gitanimals">
+    <img
+      src="https://render.gitanimals.org/farms/jyooni99"
+      width="800"
+      height="180"
+    />
+  </a>
 </div>
-
-[![jyooni99's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyooni99)](https://github.com/anuraghazra/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyooni99)](https://github.com/anuraghazra/github-readme-stats)
