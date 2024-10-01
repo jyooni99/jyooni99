@@ -20,8 +20,8 @@
   </a>   
 </div>
 
-<br>
-<h3 align="center">🐰 GIT ANIMALS 🐰</h3><br>
+<br><br>
+<h3 align="center">🐰 GIT ANIMALS 🐰</h3>
 <div align="center">
   <a href="https://github.com/devxb/gitanimals">
     <img src="https://render.gitanimals.org/farms/jyooni99"/>
