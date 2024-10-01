@@ -23,7 +23,7 @@
 <br>
 <h3 align="center">🌱 GitHub Status 🌱</h3><br>
 <div align="center">
-  ![jyooni99's github stats](https://github-readme-stats.vercel.app/api?username=jyooni99)  
+  [![jyooni99's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyooni99)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
