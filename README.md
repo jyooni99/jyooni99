@@ -21,10 +21,8 @@
 </div>
 
 <h3 align="center">🐰 GIT ANIMALS 🐰</h3><br>
-<a href="https://github.com/devxb/gitanimals" align="center">
-  <img
-    src="https://render.gitanimals.org/farms/jyooni99"
-    width="800"
-    height="200"
-  />
-</a>
+<div align="center">
+  <a href="https://github.com/devxb/gitanimals">
+    <img src="https://render.gitanimals.org/farms/jyooni99"/>
+  </a>
+</div>
