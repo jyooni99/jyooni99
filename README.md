@@ -20,6 +20,7 @@
   </a>   
 </div>
 
+<br>
 <h3 align="center">🐰 GIT ANIMALS 🐰</h3><br>
 <div align="center">
   <a href="https://github.com/devxb/gitanimals">
