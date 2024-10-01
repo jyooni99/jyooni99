@@ -1,5 +1,7 @@
-<h3 align=center>Hello there 👋</h3>
-<p>I'm Jiyun, </p>
+<div align=center>
+  <h3 align=center>Hello there 👋</h3>
+  <p>Welcome to My Github 🌱 </p>
+</div>
 
 <h3 align="center">📚 STACKS 📚</h3><br>
 
@@ -18,7 +20,7 @@
 <h3 align="center">🖥️ BLOG 🖥️</h3><br>
 <div align="center">
   <a href = 'https://goldenrod-scallop-ad5.notion.site/study-center-ef92c048eb2c4dcb9409713c1c75ba7d?pvs=4' target = "_blank">
-    <img src="https://img.shields.io/badge/study center ⋆˚✿˖°-F7DF1E?style=for-the-badge&logo=notion&logoColor=white">
+    <img src="https://img.shields.io/badge/study center ⋆˚✿˖°-F7DF1E?style=for-the-badge&logo=notion&logoColor=black">
   </a>   
 </div>
 
