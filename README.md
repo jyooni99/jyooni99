@@ -22,6 +22,6 @@
 
 <h3 align="center">🌱 GITHUB STATUS 🌱</h3><br>
 <div align="center">
-[![jyooni99's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyooni99)](https://github.com/anuraghazra/github-readme-stats) 
 </div>
 
+[![jyooni99's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyooni99)](https://github.com/anuraghazra/github-readme-stats) 
