@@ -1,7 +1,3 @@
-<div align=center>
-  <h3 align=center>Hello there 👋</h3>
-  <p>Welcome to My Github 🌱 </p>
-</div><br><br>
 
 <h3 align="center">📚 STACKS 📚</h3><br>
 
